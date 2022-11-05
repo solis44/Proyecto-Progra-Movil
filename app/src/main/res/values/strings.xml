@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProyectoTienda</string>
+    <string name="ph_Correo">Correo Electronico</string>
+    <string name="ph_Clave">Contraseña</string>
+    <string name="bt_inicioSesion">Iniciar Sesion</string>
+    <string name="bt_registrase">Registrase</string>
+    <string name="bt_cerrarSesion">Cerrar Sesion </string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
